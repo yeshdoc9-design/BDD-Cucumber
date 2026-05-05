@@ -6,5 +6,6 @@ Feature: Login functionality
     Then the user should be redirected to the home page
 
     Examples:
-      | username | password |
-      | Admin    | admin123 |
+      | username       | password |
+      | Admin          | admin123 |
+      | yesh@gmail.com | +++++++  |
