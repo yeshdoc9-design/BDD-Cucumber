@@ -9,3 +9,4 @@ Feature: Login functionality
       | username       | password |
       | Admin          | admin123 |
       | yesh@gmail.com | +++++++  |
+      | ram            |seetha    |
